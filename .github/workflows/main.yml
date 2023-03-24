@@ -21,7 +21,7 @@ jobs:
       run: npm install
 
     - name: Build
-      run: ng build --base-href /SSNS/
+      run: npm run build
 
     - name: Deploy
       if: success()
