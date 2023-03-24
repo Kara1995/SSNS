@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --prod --base-href /<repo-name>/",
+    "build": "ng build --prod --base-href /SSNS/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
