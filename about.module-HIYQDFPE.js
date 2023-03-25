@@ -1,0 +1,1 @@
+import{a as m}from"./chunk-OIZVYKF6.js";import{a as e,c as i,h as n,m as r}from"./chunk-SWMSYUFN.js";var f=[{path:"",component:m}],l=(()=>{let o=class{},t=o;return(()=>{o.\u0275fac=function(d){return new(d||o)}})(),(()=>{o.\u0275mod=i({type:o})})(),(()=>{o.\u0275inj=e({imports:[n,r.forChild(f)]})})(),t})();export{l as AboutModule};
